@@ -1,1 +1,2 @@
 archive.ubuntu.com
+ftp.ubuntu.com
